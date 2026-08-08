@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Srikanth Pandi 👋
 
-<!--
-**srikanthpandi/srikanthpandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent graduate and software developer looking for opportunities to build impactful, real-world applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduate, currently searching for full-time opportunities
+- 💻 I build applications combining backend logic, databases, and clean user interfaces
+- 🌱 Always learning and improving my development skills
+- 📫 Open to Software Developer / Java Developer roles
+
+## 🛠️ Core Skills
+
+**Languages:** Java, HTML, CSS, JavaScript, SQL
+**Database:** MySQL, JDBC
+**Concepts:** Object-Oriented Programming (OOP)
+**Tools:** Git, GitHub
+
+## 📌 Featured Projects
+
+- **[MindCare-App](https://github.com/srikanthpandi/MindCare-App)** — Mental health support platform using AI/NLP for personalized insights (React, Flask, MySQL)
+- **[MediInfo](https://github.com/srikanthpandi/MediInfo)** — Java Swing desktop app for medication lookup via the OpenFDA API
+- **[MediInfo_webapplication](https://github.com/srikanthpandi/MediInfo_webapplication)** — Web-based version of MediInfo built with Java and MySQL
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandi-srikanth-1443342bb)
+
+---
+⭐️ Thanks for visiting my profile!
