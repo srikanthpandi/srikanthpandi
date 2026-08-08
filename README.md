@@ -16,11 +16,18 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srikanthpandi&label=Profile%20Views&color=2F80ED&style=for-the-badge" />
+</p>
+
 ### 🚀 About Me
 
-- 🎓 Recent graduate, actively searching for **Software / Java Developer** roles
-- 💻 I build applications that combine backend logic, databases, and clean interfaces
-- 🌱 Constantly learning and sharpening my development skills
+A passionate **Full-Stack Java Developer** from India, recently graduated and actively seeking opportunities.
+
+- 💼 I'm currently working on **backend applications using Java, JDBC, and MySQL**
+- 🌱 I'm currently learning **Full Stack Java Development with Generative AI**
+- 🤝 I'm looking to collaborate on **Java-based full-stack projects**
+- 📫 Reach me directly via LinkedIn or Email below
 - ⚡ Fun fact: I enjoy turning ideas into working full-stack projects from scratch
 
 ---
