@@ -26,7 +26,7 @@ Recent graduate and software developer looking for opportunities to build impact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandi-srikanth-1443342bb)
 
-[![Gmail](Srikanthpandi9392@gmail.com)
+📧 Email: srikanthpandi9392@gmail.com](mailto:srikanthpandi9392@gmail.com)
 
 ---
 ⭐️ Thanks for visiting my profile!
