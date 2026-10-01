@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/pandi-srikanth-1443342bb">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -27,6 +30,7 @@ A passionate **Full-Stack Java Developer** from India, recently graduated and ac
 - 💼 I'm currently working on **backend applications using Java, JDBC, and MySQL**
 - 🌱 I'm currently learning **Full Stack Java Development with Generative AI**
 - 🤝 I'm looking to collaborate on **Java-based full-stack projects**
+- 🌐 Check out my portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 - 📫 Reach me directly via LinkedIn or Email below
 - ⚡ Fun fact: I enjoy turning ideas into working full-stack projects from scratch
 
@@ -68,6 +72,9 @@ A passionate **Full-Stack Java Developer** from India, recently graduated and ac
 ### 📫 Let's Connect
 
 <p align="center">
+  <a href="[https://your-portfolio-link.com](https://srikanthpandi.github.io/srikanth-portfolio/?utm_source=chatgpt.com)">
+    <img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/pandi-srikanth-1443342bb">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
