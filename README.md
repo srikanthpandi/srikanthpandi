@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://srikanthpandi.github.io/srikanth-portfolio/?utm_source=chatgpt.com">
+  <a href="[https://srikanthpandi.github.io/srikanth-portfolio/?utm_source=chatgpt.com](https://srikanthpandi.github.io/srikanth-portfolio/)">
     <img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pandi-srikanth-1443342bb">
