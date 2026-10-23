@@ -30,7 +30,7 @@ A passionate **Full-Stack Java Developer** from India, recently graduated and ac
 - 💼 I'm currently working on **backend applications using Java, JDBC, and MySQL**
 - 🌱 I'm currently learning **Full Stack Java Development with Generative AI**
 - 🤝 I'm looking to collaborate on **Java-based full-stack projects**
-- 🌐 Check out my portfolio: [your-portfolio-link.com](https://srikanthpandi.github.io/srikanth-portfolio/)
+- 🌐 Check out my portfolio:[https://srikanthpandi.github.io/srikanth-portfolio/]
 - 📫 Reach me directly via LinkedIn or Email below
 - ⚡ Fun fact: I enjoy turning ideas into working full-stack projects from scratch
 
